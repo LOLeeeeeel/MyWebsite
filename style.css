@@ -1,0 +1,15 @@
+#app{
+    background-color: aqua;
+}
+.line{
+    background-color: black;
+    width: 70px;
+    height: 6px;
+    margin: 10px auto;
+}
+body{
+    text-align: center;
+}
+#game{
+    background-color: lightcoral;
+}
